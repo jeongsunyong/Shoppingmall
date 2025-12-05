@@ -11,7 +11,7 @@ const PRODUCT_CATALOG = [
     price: 289000,
     emoji: "🎧",
     category: "오디오",
-    image: "/images/buzPro3.webp",
+    image: "images/buzPro3.webp",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const PRODUCT_CATALOG = [
     price: 199000,
     emoji: "🎧",
     category: "오디오",
-    image: "/images/buzPro2.webp",
+    image: "images/buzPro2.webp",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const PRODUCT_CATALOG = [
     price: 139000,
     emoji: "🎧",
     category: "오디오",
-    image: "/images/buzFE.webp",
+    image: "images/buzFE.webp",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const PRODUCT_CATALOG = [
     price: 99000,
     emoji: "🎧",
     category: "오디오",
-    image: "/images/buzlive.jpeg",
+    image: "images/buzlive.jpeg",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const PRODUCT_CATALOG = [
     price: 39900,
     emoji: "🔊",
     category: "오디오",
-    image: "/images/smartTag2.jpeg",
+    image: "images/smartTag2.jpeg",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const PRODUCT_CATALOG = [
     price: 1590000,
     emoji: "📶",
     category: "오디오",
-    image: "/images/soundbarQ990C.jpeg",
+    image: "images/soundbarQ990C.jpeg",
   },
 
   // 워치
@@ -61,7 +61,7 @@ const PRODUCT_CATALOG = [
     price: 369000,
     emoji: "⌚",
     category: "워치",
-    image: "/images/galaxywatch7.jpeg",
+    image: "images/galaxywatch7.jpeg",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const PRODUCT_CATALOG = [
     price: 899000,
     emoji: "⌚",
     category: "워치",
-    image: "/images/galaxywatchultra.jpeg",
+    image: "images/galaxywatchultra.jpeg",
   },
   {
     id: 9,
@@ -77,7 +77,7 @@ const PRODUCT_CATALOG = [
     price: 299000,
     emoji: "⌚",
     category: "워치",
-    image: "/images/galaxywatch4classic.jpeg",
+    image: "images/galaxywatch4classic.jpeg",
   },
 
   // 스마트폰
@@ -87,7 +87,7 @@ const PRODUCT_CATALOG = [
     price: 1699000,
     emoji: "📱",
     category: "스마트폰",
-    image: "/images/galaxyS24Ultra.jpeg",
+    image: "images/galaxyS24Ultra.jpeg",
   },
   {
     id: 11,
@@ -95,7 +95,7 @@ const PRODUCT_CATALOG = [
     price: 1350000,
     emoji: "📱",
     category: "스마트폰",
-    image: "/images/galaxyS24Plus.jpeg",
+    image: "images/galaxyS24Plus.jpeg",
   },
   {
     id: 12,
@@ -103,7 +103,7 @@ const PRODUCT_CATALOG = [
     price: 1452000,
     emoji: "📱",
     category: "스마트폰",
-    image: "/images/galaxyZFlip6.jpeg",
+    image: "images/galaxyZFlip6.jpeg",
   },
   {
     id: 13,
@@ -111,7 +111,7 @@ const PRODUCT_CATALOG = [
     price: 2149000,
     emoji: "📱",
     category: "스마트폰",
-    image: "/images/galaxyZFold6.jpeg",
+    image: "images/galaxyZFold6.jpeg",
   },
 
   // PC·태블릿
@@ -121,7 +121,7 @@ const PRODUCT_CATALOG = [
     price: 2299000,
     emoji: "💻",
     category: "PC·태블릿",
-    image: "/images/galaxyBookPro4.jpeg",
+    image: "images/galaxyBookPro4.jpeg",
   },
   {
     id: 15,
@@ -129,7 +129,7 @@ const PRODUCT_CATALOG = [
     price: 3499000,
     emoji: "💻",
     category: "PC·태블릿",
-    image: "/images/galaxyBookUltra4.jpeg",
+    image: "images/galaxyBookUltra4.jpeg",
   },
   {
     id: 16,
@@ -137,7 +137,7 @@ const PRODUCT_CATALOG = [
     price: 1580000,
     emoji: "📱",
     category: "PC·태블릿",
-    image: "/images/galaxyTabUltraS9.jpeg",
+    image: "images/galaxyTabUltraS9.jpeg",
   },
   {
     id: 17,
@@ -145,7 +145,7 @@ const PRODUCT_CATALOG = [
     price: 699000,
     emoji: "📱",
     category: "PC·태블릿",
-    image: "/images/galaxyTabFEPlusS9.jpeg",
+    image: "images/galaxyTabFEPlusS9.jpeg",
   },
   {
     id: 18,
@@ -153,7 +153,7 @@ const PRODUCT_CATALOG = [
     price: 199000,
     emoji: "⌨️",
     category: "PC·태블릿",
-    image: "/images/samsungBluetoothKeyboard.jpeg",
+    image: "images/samsungBluetoothKeyboard.jpeg",
   },
 
   // 디스플레이
@@ -163,7 +163,7 @@ const PRODUCT_CATALOG = [
     price: 1990000,
     emoji: "🖥️",
     category: "디스플레이",
-    image: "/images/OdysseyG9Monitor.jpeg",
+    image: "images/OdysseyG9Monitor.jpeg",
   },
   {
     id: 20,
@@ -171,7 +171,7 @@ const PRODUCT_CATALOG = [
     price: 890000,
     emoji: "🖥️",
     category: "디스플레이",
-    image: "/images/SmartMonitorM8.jpeg",
+    image: "images/SmartMonitorM8.jpeg",
   },
 
   // 스토리지·기타
@@ -181,7 +181,7 @@ const PRODUCT_CATALOG = [
     price: 289000,
     emoji: "💾",
     category: "스토리지·기타",
-    image: "/images/PortableSSDT92TB.jpeg",
+    image: "images/PortableSSDT92TB.jpeg",
   },
   {
     id: 22,
@@ -189,7 +189,7 @@ const PRODUCT_CATALOG = [
     price: 39000,
     emoji: "🔌",
     category: "스토리지·기타",
-    image: "/images/Samsung45WPDCharger.jpeg",
+    image: "images/Samsung45WPDCharger.jpeg",
   },
 ];
 
